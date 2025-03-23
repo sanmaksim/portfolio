@@ -22,14 +22,14 @@
     
 }
 
-.grid-item[data-type="bg-white"] {
-    background-color: white;
-    color: black;
-}
-
 .grid-item[data-type="bg-black"] {
     background-color: black;
     color: white;
+}
+
+.grid-item[data-type="bg-white"] {
+    background-color: white;
+    color: black;
 }
 
 @media only screen and (max-width: 768px) {
