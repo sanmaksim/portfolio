@@ -28,6 +28,11 @@
     color: white;
 }
 
+.grid-item[data-type="bg-slate"] {
+    background-color: #26282a;
+    color: darkgrey;
+}
+
 .grid-item[data-type="bg-white"] {
     background-color: white;
     color: black;
@@ -53,7 +58,7 @@ a:visited {
 }
 
 body {
-    background-color: dimgray;
+    background-color: darkgray;
     font-family: monospace;
     text-align: center;
 }
